@@ -1,0 +1,10 @@
+fastapi[standard]
+sqlalchemy
+alembic
+psycopg[binary]
+bcrypt
+pyjwt
+python-multipart
+email-validator
+pytest
+httpx
